@@ -1,1 +1,3 @@
-# Enigma-Machine
+# Enigma Machine Simulator
+
+### Features
