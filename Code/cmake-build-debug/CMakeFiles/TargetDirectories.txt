@@ -1,0 +1,3 @@
+C:/Storage/Projects/Enigma Machine C/Code/cmake-build-debug/CMakeFiles/EnigmaMachine.dir
+C:/Storage/Projects/Enigma Machine C/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Storage/Projects/Enigma Machine C/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
