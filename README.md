@@ -1,5 +1,7 @@
 # Enigma Machine Simulator
 
+This project was developed to complete a cyber security assignment for the university of Huddersfield 
+
 ### Features:
 - Plugboard
 - Reflector (B or C)
