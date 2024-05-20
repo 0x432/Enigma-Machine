@@ -8,3 +8,4 @@
 - Set rotor order (fasest, middle, slowest) 
 - Set each rotor position individually
 - Select from rotors (I, II, III, IV, V)
+- Encode / Decode messages
